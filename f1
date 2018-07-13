@@ -2,5 +2,6 @@ create table employee
 (
 empid int unique,
 empname varchar(12)
-salary int
+salary int,
+age int
 )
