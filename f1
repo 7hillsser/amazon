@@ -4,6 +4,6 @@ empid int unique,
 empname varchar(12)
 salary int,
 first_name varchar (22)
-raja commit-2
+raja
 age int
 )
