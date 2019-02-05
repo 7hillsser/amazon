@@ -4,5 +4,6 @@ empid int unique,
 empname varchar(12)
 salary int,
 first_name varchar (22)
+raja
 age int
 )
