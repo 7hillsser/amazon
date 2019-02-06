@@ -6,3 +6,4 @@ salary int,
 first_name varchar (22)
 age int
 )
+commit 1
